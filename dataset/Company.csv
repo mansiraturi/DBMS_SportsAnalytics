@@ -1,0 +1,21 @@
+﻿CompanyID,CompanyName,IndustryType
+C001,Nike,Sports
+C002,Adidas,Sports
+C003,Puma,Sports
+C004,Reebok,Sports
+C005,MRF,Sports
+C006,Coca-Cola,Beverages
+C007,PepsiCo,Beverages
+C008,Apple,Technology
+C009,Samsung,Technology
+C010,Google,Technology
+C011,Sony,Technology
+C012,Microsoft,Technology
+C013,IBM,Technology
+C014,Amazon,Technology
+C015,Under Armour,Sports
+C016,New Balance,Sports
+C017,Oakley,Sports
+C018,Gatorade,Beverages
+C019,Red Bull,Beverages
+C020,FILA,Sports
